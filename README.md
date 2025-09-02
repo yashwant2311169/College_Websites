@@ -36,4 +36,5 @@ PORT=5000
 JWT_SECRET=your_jwt_secret_key
 
 
-![Homepage Screenshot](link_to_your_screenshot.png)
+![Homepage Screenshot](<img width="1920" height="800" alt="image" src="https://github.com/user-attachments/assets/a0c2f2c5-193f-4187-ba87-f08cbab57a06" />
+.png)
